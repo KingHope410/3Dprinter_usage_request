@@ -19,19 +19,6 @@
 - Python 3.11
 - Windows 10
 
-### 安装步骤
-
-1. 克隆或下载项目到本地。
-2. 安装项目依赖：
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. 使用 `PyInstaller` 打包项目：
-   ```bash
-   python build_exe.py
-   ```
-4. 在 `dist` 目录下找到生成的 `PrinterAssistant.exe` 文件。
-
 ### 运行
 
 双击 `PrinterAssistant.exe` 文件启动应用程序。
